@@ -1,0 +1,132 @@
+:root {
+  --color-primary: #9a3f12;
+  --color-primary-hover: #6e2a0c;
+  --color-secondary: #4a5b68;
+  --color-accent: #e8a05a;
+
+  --color-neutral-50: #f6f8fa;
+  --color-neutral-100: #eef2f4;
+  --color-neutral-200: #d5dee6;
+  --color-neutral-300: #b7c5d0;
+  --color-neutral-400: #8aa0b0;
+  --color-neutral-500: #6b8294;
+  --color-neutral-600: #4a5b68;
+  --color-neutral-700: #2c3e4c;
+  --color-neutral-800: #152532;
+  --color-neutral-900: #0d1720;
+
+  --color-success: #1f6b45;
+  --color-success-bg: #e3f0e9;
+  --color-success-border: #7eae93;
+  --color-warning: #8a5a00;
+  --color-warning-bg: #f3ead4;
+  --color-warning-border: #c9a45a;
+  --color-error: #b42318;
+  --color-error-bg: #f6e4e2;
+  --color-error-border: #d48a84;
+  --color-info: #185fa5;
+  --color-info-bg: #e4eef6;
+  --color-info-border: #7aa0c4;
+
+  --color-bg: #eef2f4;
+  --color-surface: #f6f8fa;
+  --color-rail: #152532;
+  --color-rail-text: #eef2f4;
+  --color-rail-muted: #9bb0be;
+  --color-rail-border: #2a3d4c;
+  --color-border: #d5dee6;
+  --color-text: #152532;
+  --color-text-muted: #4a5b68;
+  --color-text-inverse: #eef2f4;
+
+  --nav-fg: var(--color-text-muted);
+  --nav-fg-current: var(--color-text);
+  --nav-index: var(--color-primary);
+
+  --font-display: "Fraunces", "Iowan Old Style", Palatino, serif;
+  --font-body: "Figtree", "Segoe UI", sans-serif;
+  --font-mono: ui-monospace, "Source Code Pro", monospace;
+
+  --text-display: clamp(2.25rem, 4vw, 3.35rem);
+  --text-h1: 1.75rem;
+  --text-h2: 1.375rem;
+  --text-h3: 1.125rem;
+  --text-body: 1.0625rem;
+  --text-caption: 0.875rem;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  --leading-tight: 1.12;
+  --leading-snug: 1.25;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.65;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 2px;
+  --radius-full: 999px;
+
+  --shadow-sm: 0 0 0 1px var(--color-accent);
+  --shadow-md: 0 18px 40px color-mix(in srgb, var(--color-neutral-800) 18%, transparent);
+  --shadow-lg: 0 24px 56px color-mix(in srgb, var(--color-neutral-800) 22%, transparent);
+
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
+  --duration-slow: 400ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-overlay: 300;
+  --z-modal: 400;
+  --z-toast: 500;
+
+  --rail-width: 20.5rem;
+  --measure: 42rem;
+  --measure-wide: 45rem;
+  --label-col: 13rem;
+  --label-gap: var(--space-12);
+  --page-gutter: clamp(1.25rem, 4vw, 4rem);
+  --sticky-offset: 0px;
+}
+
+.rail,
+.mobile-chrome {
+  --nav-fg: var(--color-rail-muted);
+  --nav-fg-current: var(--color-rail-text);
+  --nav-index: var(--color-accent);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --sticky-offset: calc(6.75rem + env(safe-area-inset-top, 0px));
+  }
+}
+
+@media (min-width: 1600px) {
+  :root {
+    --measure-wide: 50rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 1ms;
+    --duration-base: 1ms;
+    --duration-slow: 1ms;
+  }
+}

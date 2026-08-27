@@ -1,0 +1,225 @@
+/** Word CV text, sentences kept verbatim. Only HYPERLINK field codes stripped. */
+export const profile = {
+  "name": "DeGui Sun",
+  "mobile": "13364485972",
+  "email": "sundg@cust.edu.cn",
+  "photo": "/photos/degui-sun.jpg",
+  "photoAlt": "Portrait of DeGui Sun standing outdoors in winter",
+  "orcid": {
+    "id": "0000-0001-5835-1354",
+    "url": "https://orcid.org/0000-0001-5835-1354",
+    "label": "ORCID link for deguisun",
+    "apsNote": "The following ORCID id has been linked with this APS Journal account: https://orcid.org/0000-0001-5835-1354"
+  },
+  "currentPosts": [
+    "2017.1-present: Part-time Professor, School of Physics, Changchun University of Science and Technology, China.",
+    "2026.1-present: Part-time Professor, School of Electronic Information and Engineering, Nanjing University of Aeronautics and Astronautics, China"
+  ],
+  "lead": "2018-Present：He has reached much more highly-valuable, and significant achievements in “The transmission, transportation, optical field modulation and manipulation, advanced electrooptic functional materials and devices, electro-optic sensors, etc.”：27 papers in SCI source indexed journals、6 China invention patents awarded、3 keynote/invited talks；has raised 23 post-graduates: 5 Ph.D degree and 18 Master degree graduates earned degrees；is currently raising 12 post-graduates: 2 Ph.D degree and 10 Master degree graduates. Totally reviewed more than 30 manuscripts for more than 15 journals.",
+  "headings": {
+    "education": "EDUCATION",
+    "research": "RESEARCH INTERESTS",
+    "employment": "EMPLOYMENT EXPERIENCE, POSITIONS and ACHIEVEMENTS",
+    "publications": "PUBLICATIONS: Since 2011 to present",
+    "publicationsSince2018": "Since 2018:"
+  },
+  "education": [
+    {
+      "title": "Post-Doc Fellow, in Integrated Photonics and Optoelectronics: 1994-1997",
+      "place": "University/Country: J.J. Pickle Microelectronics Research Center, University of Texas at Austin, USA",
+      "detail": "Research area: Polymer waveguide modulators, and LiNbO3 crystal beam guiding"
+    },
+    {
+      "title": "Philosophy Doctor of Electrical Engineering, in Applied Physics/Optoelectronics: 1989-1993",
+      "place": "University/Country: Graduate University of the Chinese Academy of Sciences (CAS), China",
+      "detail": "Dissertation Title: Optical Butterfly Interconnects and Applications in Optical Computing"
+    },
+    {
+      "title": "Master of Science and Engineering, Optics & Photonics Technology and Applications: 1985-1988",
+      "place": "University/Country: Graduate University of the Chinese Academy of Sciences (CAS), China",
+      "detail": "Thesis Title: Design Methodology and Applications of Optical Devices of Dielectric Thin Films"
+    },
+    {
+      "title": "Bachelor of Science in Optical Science and Engineering: 1981-1985",
+      "place": "University/Country: Harbin Institute of Technology, China",
+      "detail": "Thesis Title: Design, Fabrication and Measurement for Big Lens"
+    }
+  ],
+  "research": [
+    {
+      "title": "BaTiO3 Crystal Thin-Film Properties and Electro-Optic Functional Devics",
+      "items": [
+        "(1) On Si platform, the electro-optic (EO) and elasto-optic characteristics of BaTiO3 crystal thin-film, the new functional devices, and the special applications, improvements of these characteristics via both chemical-physical methods.",
+        "(2) Ferroelectric characteristics of BaTiO3 crystal thin-film waveguide: high-order nonlinear EO modulation theory, physical property of crystal domains for realizing the high bandwidth (40∼110GHz) EO modulators.",
+        "(3) Variable wavefronts of orbital angular momentum (OAM) beams created by optical phase-polarization modulation of BaTiO3 crystal thin-film waveguide: the controllable four-dimensional (4-D) vortex mode distribution and encoding.",
+        "(4) High-order multi-dimensional EO modulation schemes of BaTiO3 crystal thin-film waveguide and applications for fiber-optic (FO) telecommunications and free-space optical (FSO) communications.",
+        "(5) High-sensitivity EO sensors of both the electric-fields and the ultraweak pressure with BaTiO3 crystal film waveguides under new EO modulation theory and surface plasmonic cavity.",
+        "(6) Optical communication-sensing-integration of BaTiO3 crystal thin-film waveguide and photonic integrated circuit (PIC) functional systems."
+      ]
+    },
+    {
+      "title": "Silicon Waveguide Technology and Photonic Integrated Circuit (PIC) Devices: Fabrications and Applications in Optical Communication and Optical Circuit Switching (OCS) systems:",
+      "items": [
+        "(1) BTO/Silicon hybrid waveguide high-speed switches via quantum mode-matching theory, polarization-dependent directional couplers, and Goos-Hanchän (GH) spatial shift.",
+        "(2) High-speed high port account optical matrix switches (OMS) and wavelength selective switches (WSS) with SOI waveguide-based PIC technology and Goos-Hanchän (GH) spatial shift.",
+        "(3) High precision measurements and standards of the 3-D sidewall roughness (SWR) distribution of the SOI, Si3N4 (SiN) and micro-/nanoscale waveguides with the CLSM and the SWR-improved Payne–Lacey (P-L) three-dimensional (3-D) formalism and Hörmann’s 3-D perturbation model for calculating the optical propagation loss (OPL).",
+        "(4) Correlativity among the fabrication tolerance, the measurement error, and the specifications of functional devices with metrology of the CLSM and the new roughness theory.",
+        "(5) Complementary etching-oxidation of silicon (CEOS) fabrication methodology for Si-based (SOI, SiN) waveguide chips – Manufacture, testing, packaging and applications of silicon PIC chips."
+      ]
+    }
+  ],
+  "employment": [
+    "2017.1-present: Part-time Professor, School of Physics, Changchun University of Science and Technology, China.",
+    "2026.1-present: Part-time Professor, School of Electronic Information and Engineering, Nanjing University of Aeronautics and Astronautics, China",
+    "(1) R&D of silicon PIC components: new principles, fabrication, measurement metrology, and applications.",
+    "(2) Research of ferroelectric & EO properties of BaTiO3 crystal thin-film and high bandwidth modulators.",
+    "(3) Teaching Advanced Guided Photonics, Optoelectronic Information Science and Engineering in English.",
+    "♦Main Achievements in BaTiO3 crystal film waveguide:",
+    "Demonstration for the variable wavefronts of orbital angular momentum (OAM) of BaTiO3 crystal film with the complementary modulations of polarization and optical phase.",
+    "Demonstration for the matching theory between microwave and light-wave standard of BaTiO3 crystal thin-film waveguide high-speed intensity EO modulator.",
+    "Proposed and demonstrated a new equation of the bit-energy definition of high-speed MZI type intensity modulator in theory and experiment.",
+    "In theory/experiment compressed the modulation output signal width of BaTiO3 crystal thin-film waveguide high-speed intensity EO modulator.",
+    "Successful measurements of the off-axis EO tensor coefficient and the birefringence of BaTiO3 crystal film with the complementary modulations of polarization and optical phase.",
+    "Built a theoretical model for defining the dependences of the EO coefficient on both the temperature and the initial polarization fraction with the energy conservation in crystal domains.",
+    "♦ Main Achievements in Silicon PIC circuits and devices:",
+    "Fabricated a vertical metasurface structure into silicon waveguide and demonstrated its enhancement role in manipulating the GH shifts.",
+    "In theory/experiment compared the two typical theoretical models for calculating the OPL of silicon waveguides.",
+    "Optimized the fabrication tolerance of SiN waveguide 40-channel arrayed waveguide (AWG) for the polarization mode dispersion (PMD).",
+    "Demonstration for the conversion of SOI-waveguide to the Silica-on-Silicon (SOS) waveguide via complementary etching-oxidation of silicon (CEOS) fabrication method and P ion doping.",
+    "Successful measurements of the sidewall roughness (SWR) of SOI and SiO2 waveguides with the CLSM metrology and defined a 3-D root-mean-square (rms) roughness standard.",
+    "Successful measurements of the sidewall angle (SWA) of SOI and SiO2 waveguides with the CLSM metrology and proposed a compensation standard of an intrinsic error.",
+    "Modified the modern Payne-Lacey (P-L) model of defining the relation between the optical propagation loss coefficient and the SWR of a waveguide by introducing the 3-D SWR.",
+    "Demonstrated an intra-guide mode conversion scheme by changing an SOI waveguide to a SiO2 waveguide to reduce chip-fiber butt-coupling loss with a local oxidation of silicon (LOCOS).",
+    "Derived an exclusive thermodynamic theoretical model of the Henry’s law constant in the hyperthermal oxidation of silicon to perform the broad simulations of hyperthermal oxidation.",
+    "2013-2016: School of Science at CUST/China (part-time) and University of Ottawa (uOttawa)/Canada (part-time).",
+    "JDS Uniphase Corporation, Nepean, Ontario, Canada: (part time).",
+    "Systematic measurements of the newly developed 40-ch Array Waveguide Grating Products.",
+    "2008-2010: Research Scientist and Project Leader in Optoelectronic Components at CRPuO/Canada",
+    "Achievements:",
+    "Obtained a proposal “SOI waveguide High-Speed Micro-Size Optical Switch” from OCE, $150,000 CAD, I was the proponent and Trevor Hall was the applicant. (finished)",
+    "Obtained a proposal fund from National Research Council of Canada: Idea to Innovation (i2i) with the same proposal title: “SOI waveguide High-Speed Micro-Size Optical Switch”, I was the proponent of this project and Prof. Trevor Hall was the applicant. (finished)",
+    "Found the intrinsic limitations of MZI type EO modulated devices based on SOI waveguides and the refractive index modulation of silicon free-carrier dispersion (FCD) effect. (finished)",
+    "2003-2006, Leader Professor of 100-Talent Plan Project of Chinese Academy of Sciences at Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP), Changchun, JL, China",
+    "Research on the Advanced Optical Communication Components. Main achievements:",
+    "Obtained a proposal entitled by “Research on the Advanced Optical Communications” funded by Chinese Academy of Sciences: 100-Talent Plan fund. (finished)",
+    "Obtained a proposal “A wavelength selective switch with MEMS and micro-optics” from Natural Science Foundation of China (NSFC): regular fund. (finished)",
+    "Device chip prototypes of MZI type optical switch and nonblocking matrix switches silica-on-silicon (SOS) from 2×2 scale to 16×16 scale. (finished)",
+    "2002-2003, Leader Research Associate at Northwestern University, Evanston, IL USA",
+    "Research on the self-assembly polymer waveguide EO modulator and the properties of BaTiO3 crystal film.",
+    "Main achievements:",
+    "Built a theoretical model of the nonlinear EO modulation process of BaTiO3 crystal waveguides.",
+    "Optimized the device construction the self-assembly polymer waveguide EO modulator.",
+    "1999-2002, Product Development Engineer and design authority in a company – Nu-Wave Photonics (later changed to Zenastra Photonics), Ottawa, ON Canada",
+    "Responsible for designs of products on the silica waveguide platform."
+  ],
+  "publications": [
+    {
+      "text": "J. Li, D. G. Sun*, Y. Li, M. Luo, N. Sun, and D. Wu*, \"Variable wavefronts of light-beam caused by phase-polarization electro-optic modulation of BaTiO3 crystal thin-film waveguide,\" Appl. Phys. Lett. 128(22), 224101 (2026). [DOI: 10.1063/5.0321837 ]",
+      "href": "https://doi.org/10.1063/5.0321837"
+    },
+    {
+      "text": "M. Bi, D. G. Sun*, Y. Lin, Y. Li, P. Yu, Z. Yu, Y. Sun, S. Guo, L. Guo, and M. Yu*, \"Two theoretical model comparison for calculating the optical propagation loss of silicon-on-insulator waveguides,\" Coatings 16(3), 323_1-14 (2026). [DOI:10.3390/coatings16030323]",
+      "href": "https://doi.org/10.3390/coatings16030323"
+    },
+    {
+      "text": "J. Zhang, D. G. Sun*, Z. Wang, Z. Wen, and K. P. Zhang, (Invited Paper) \"Microwave characteristics and bandwidths of BaTiO3 crystal film waveguide electro-optic modulator to match light-wave bandwidth,\" Physica Status Solidi (RRL) 20(1), e202500340 (2026). [DOI:10.1002/pssr.2025000340]",
+      "href": "https://doi.org/10.1002/pssr.2025000340"
+    },
+    {
+      "text": "Y. Sun, D. G. Sun*, Y. Li, Y. Lin*, C. Liu, Y. Zhu, M. Bi, Y. Xu, P. Yu, and T. Yu*, “Low-loss silica-SOI monolithically integrated single-mode waveguides via the fabrication of complementary etching-oxidation of silicon”, Opt. Mater. Exp. 16(2), 446-454 (2026). [DOI:10.1364/OME.585257]",
+      "href": "https://doi.org/10.1364/OME.585257"
+    },
+    {
+      "text": "Z. Yu, D. G. Sun*, M. Bi, Y. Sun, and S. Guo, “Performance simulation and optimal design for silicon-nitride arrayed waveguide grating”, Coatings 16(1), 63_1-19 (2026). [DOI: 10.3390/coatings16010063]",
+      "href": "https://doi.org/10.3390/coatings16010063"
+    },
+    {
+      "text": "N. Sun, D. G. Sun*, D. Wu, Y. Guo, Y. Fan, F. Zou, M. Pu, and X. Luo*, \"Lowering the bit-energy of electrooptic intensity modulators via polarization-phase modulation in thin-film BaTiO3 ferroelectric crystal waveguide,\" Las. & Photon. Rev. 18(3), 2300937 (2024). [DOI: 10.1002/lpor.202300937]",
+      "href": "https://doi.org/10.1002/lpor.202300937"
+    },
+    {
+      "text": "Y. Zhang, D. G. Sun*, M. Yu, Y. Xu, and Z. Chen, \"Active manipulation of Goos-Hänchen shifts of guided-wave via a metasurface of silicon-nanoscale semi-spheres on SOI waveguide,\" Opt. Exp. 32(11), 19999-20010(2024). [DOI: 10.1364/OE.5522948]10.1364/OE.522948",
+      "href": "https://doi.org/10.1364/OE.5522948"
+    },
+    {
+      "text": "N. Sun and D. G. Sun*, \"Phase-polarization ensemble modulation effect of BaTiO3 crystal film waveguide on MZI electrooptic intensity modulators,\" Appl. Opt. 61(8), 1851-1855 (2022).",
+      "href": null
+    },
+    {
+      "text": "Y. Shi, W. Liu, S. Liu, T. Yang, Y. M. Dong, D. G. Sun*, and G. Y. Li, “Strong coupling between plasmonic surface lattice resonance and photonic microcavity modes”, Photonics 9(1), 84 (2022).",
+      "href": null
+    },
+    {
+      "text": "Y. Shi, Y. M. Dong, D. G. Sun*, and G. Y. Li, “Significant near field enhancement over large volumes around metal nanorods via strong coupling of surface lattice resonances and Fabry-Pérot resonance”, Materials 15(1), 01523 (2022).",
+      "href": null
+    },
+    {
+      "text": "Y. Shi, L. Xiong, Y. M. Dong, D. G. Sun*, and G. Y. Li, “Quality factor enhancement of plasmonic surface lattice resonance by using asymmetric period”, Chin. Phys. B 31(1), 014217 (2022).",
+      "href": null
+    },
+    {
+      "text": "N. Sun, Y. Han, D. G. Sun*, et al., “Temperature and initial polarization dependences of the electrooptic coefficient of BaTiO3 crystal film”, Opt. Mat. Exp. 11(8), 2730-2742 (2021).",
+      "href": null
+    },
+    {
+      "text": "T. Yu and D. G. Sun*, “Thermodynamic insights into Henry’s constant in hyperthermal oxidation of silicon for fabricating optical waveguides”, Phys. Chem. Chem. Phys. 23(8), 17354-17364 (2021).",
+      "href": null
+    },
+    {
+      "text": "N. Sun, D. G. Sun*, Y. Han, et al., “Methodological analysis for the electrooptic coefficient and birefringence of BaTiO3 crystal films with complementary polarization modulations”, Meas. Sci. & Technol. 32(1), 015001 (2021).",
+      "href": null
+    },
+    {
+      "text": "M. X. Luo, D. G. Sun*, and G. Y. Jin \"An ultrahigh sensitivity three-dimensional electric-field sensor with barium titanate crystal waveguides,\" AIP Advances 12(5), 055317 (2022).",
+      "href": null
+    },
+    {
+      "text": "Chen Z., Sun D. G.* et al., “Digital Thermo-optic Switch of SOI Waveguide Based on Goos-Hänchen Spatial Shift of Reflected Mode,” ACTA PHOTON. SIN., 50(4), 0423001 (2021).",
+      "href": null
+    },
+    {
+      "text": "Wang B., Sun D. G.* et al., \"Investigation for Relationship between Sidewall Roughness of SOI Waveguide and Loss of Guided-mode,\" ACTA PHOTON. SIN., 50(5), 0506005 (2021).",
+      "href": null
+    },
+    {
+      "text": "Yu T., Sun D. G.* et al., “Precision Measurement and Theoretical Analysis of SOI Waveguide Transmission Loss and Butt-coupling Loss,” ACTA PHOTONICA SINICA, 50(7), 0713001 (2021).",
+      "href": null
+    },
+    {
+      "text": "T. Yu, D. G. Sun* et al., “Intraguide mode conversion of silica-on-silicon transfer waveguides and SOI tapered structures for highly efficient chip-fiber butt coupling”, Appl. Opt. 59(36), 11253-11260 (2020).",
+      "href": null
+    },
+    {
+      "text": "H. P. Shang, D. G. Sun*, et al., “Investigation for sidewall roughness caused optical scatting loss of silicon-on-insulator waveguides with confocal laser scanning microscopy”, coatings 10(3), 236 (2020).",
+      "href": null
+    },
+    {
+      "text": "M. X. Luo, D. G. Sun*, N. Sun et al., “Strategic measurement for the axis orientation and electro-optic coefficient of BaTiO3 crystal thin-film grown on MgO crystal with polarization modulations”, Opt. Lett. 44(17), 4215-4218(2019).",
+      "href": null
+    },
+    {
+      "text": "Q. Y. Sun, D. G. Sun*, H. P. Shang, et al., “Study of birefringence and stress distribution of SiO2 film optical waveguides on silicon wafer”, coatings 9(5), 316 (2019).",
+      "href": null
+    },
+    {
+      "text": "D. G. Sun*, H. Shang, and H. Jiang “Effective metrology and standard of the surface roughness of micro/nanoscale waveguides with confocal laser scanning microscopy,” Opt. Lett. 44(4), 747-750 (2019).",
+      "href": null
+    },
+    {
+      "text": "H. Shang, D. G. Sun* et al., “Analysis for the system errors in measuring sidewall angle of silica waveguide with confocal laser scanning microscope,” Meas. Sci. & Technol. 30(2), 025004 (2019).",
+      "href": null
+    },
+    {
+      "text": "D. G. Sun*, Q. Sun et al., “Investigation for the structural stress of SiO2 thin-films and its distribution on the large-wafer created by PECVD,” AIP Advances 8(8), 085217 (2018).",
+      "href": null
+    },
+    {
+      "text": "Mengxi Luo and D. G. Sun*, “Ultra-efficient electro-optic modulation with a two-dimensional interaction regime,” J. Appl. Phys. 123(3), 034503 (2018).",
+      "href": null
+    },
+    {
+      "text": "Y. Shi, H. Shang, and D. G. Sun*, “Investigation for all polarization conversions of the guided-modes in a bending waveguide,” Opt. Commun. 410(3), 211-214 (2018).",
+      "href": null
+    }
+  ]
+};
