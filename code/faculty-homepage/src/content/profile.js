@@ -3,7 +3,7 @@ export const profile = {
   "name": "DeGui Sun",
   "mobile": "13364485972",
   "email": "sundg@cust.edu.cn",
-  "photo": "/photos/degui-sun.jpg",
+  "photo": `${import.meta.env.BASE_URL}photos/degui-sun.jpg`,
   "photoAlt": "Portrait of DeGui Sun standing outdoors in winter",
   "orcid": {
     "id": "0000-0001-5835-1354",
