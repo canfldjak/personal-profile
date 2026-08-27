@@ -1,0 +1,8 @@
+{
+  "name": "personal-profile",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./code/faculty-homepage/dist",
+    "not_found_handling": "single-page-application"
+  }
+}

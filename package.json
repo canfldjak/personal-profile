@@ -1,0 +1,12 @@
+{
+  "name": "personal-profile",
+  "private": true,
+  "description": "Cloudflare Workers deployment wrapper for the DeGui Sun faculty homepage in code/faculty-homepage",
+  "scripts": {
+    "build": "cd code/faculty-homepage && npm ci && npm run build",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.42.0"
+  }
+}
