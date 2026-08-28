@@ -15,7 +15,7 @@ export const profile = {
     "2017.1-present: Part-time Professor, School of Physics, Changchun University of Science and Technology, China.",
     "2026.1-present: Part-time Professor, School of Electronic Information and Engineering, Nanjing University of Aeronautics and Astronautics, China"
   ],
-  "lead": "2018-Present：He has reached much more highly-valuable, and significant achievements in “The transmission, transportation, optical field modulation and manipulation, advanced electrooptic functional materials and devices, electro-optic sensors, etc.”：27 papers in SCI source indexed journals、6 China invention patents awarded、3 keynote/invited talks；has raised 23 post-graduates: 5 Ph.D degree and 18 Master degree graduates earned degrees；is currently raising 12 post-graduates: 2 Ph.D degree and 10 Master degree graduates. Totally reviewed more than 30 manuscripts for more than 15 journals.",
+  "lead": "2018-Present：He has reached much more highly-valuable, and significant achievements in “The transmission, transportation, optical field modulation and manipulation, advanced electrooptic functional materials and devices, electro-optic sensors, etc.”：27 papers in SCI source indexed journals、6 China invention patents awarded、3 keynote/invited talks；has raised 23 post-graduates: 5 Ph.D degree and 18 Master degree graduates earned degrees；is currently raising 12 post-graduates: 2 Ph.D degree and 10 Master degree graduates. Since 2013, Totally reviewed more than 30 manuscripts for more than 15 journals.",
   "headings": {
     "education": "EDUCATION",
     "research": "RESEARCH INTERESTS",
@@ -47,7 +47,7 @@ export const profile = {
   ],
   "research": [
     {
-      "title": "BaTiO3 Crystal Thin-Film Properties and Electro-Optic Functional Devics",
+      "title": "BaTiO3 Crystal Thin-Film Properties and Electro-Optic Functional Devices",
       "items": [
         "(1) On Si platform, the electro-optic (EO) and elasto-optic characteristics of BaTiO3 crystal thin-film, the new functional devices, and the special applications, improvements of these characteristics via both chemical-physical methods.",
         "(2) Ferroelectric characteristics of BaTiO3 crystal thin-film waveguide: high-order nonlinear EO modulation theory, physical property of crystal domains for realizing the high bandwidth (40∼110GHz) EO modulators.",
@@ -69,7 +69,7 @@ export const profile = {
     }
   ],
   "employment": [
-    "2017.1-present: Part-time Professor, School of Physics, Changchun University of Science and Technology, China.",
+    "2017.1-2025.12 Professor, School of Physics, Changchun University of Science and Technology, China.",
     "2026.1-present: Part-time Professor, School of Electronic Information and Engineering, Nanjing University of Aeronautics and Astronautics, China",
     "(1) R&D of silicon PIC components: new principles, fabrication, measurement metrology, and applications.",
     "(2) Research of ferroelectric & EO properties of BaTiO3 crystal thin-film and high bandwidth modulators.",
